@@ -1,0 +1,88 @@
+.dashboard-fibonacci {
+  color:#313437;
+  background-color:#fff;
+  padding:50px 0;
+  text-align:center;
+  display: center
+}
+
+.dashboard-fibonacci p {
+  color:#7d8285;
+  line-height:1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-fibonacci h2 {
+  font-size:24px;
+  font-weight:bold;
+  margin-bottom:25px;
+  line-height:1.5;
+  padding-top:0;
+  margin-top:0;
+  color:inherit;
+}
+
+.dashboard-fibonacci .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto 25px;
+}
+
+.dashboard-fibonacci .intro p {
+  margin-bottom:35px;
+}
+
+.dashboard-fibonacci form {
+  justify-content:center;
+  margin: 20px
+
+}
+
+.dashboard-fibonacci form .form-control {
+  border:2px solid #c2dffe;
+  border-radius:3px;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+  text-indent:9px;
+  height:45px;
+  margin-right:10px;
+  min-width:250px;
+}
+
+
+.text-area {
+  margin: 20px;
+  resize: none;
+}
+
+.dashboard-fibonacci form .btn {
+  color: black;
+  cursor: pointer;
+  margin: 20px;
+  border:none;
+  background:none;
+  box-shadow:none;
+  text-shadow:none;
+  opacity:0.9;
+  font-weight:bold;
+  font-size:13px;
+  letter-spacing:0.4px;
+  line-height:1;
+}
+
+.dashboard-fibonacci form .btn:hover {
+  opacity:1;
+}
+
+.dashboard-fibonacci form .btn:active {
+  transform:translateY(1px);
+}
+
+.dashboard-fibonacci form .btn-primary {
+  outline:none !important;
+  margin: 20px;
+  justify-self: center
+
+}
